@@ -93,7 +93,7 @@ Before installing the project locally, ensure you have the following:
 
 ```powershell
 # 1. Clone the repository to your local machine
-git clone <your-repo-url>
+git clone https://github.com/Omar123098/Shell
 cd "Shell project"
 
 # 2. Compile the project
@@ -107,7 +107,7 @@ g++ main.cpp -o shell.exe
 
 ```powershell
 # 1. Clone and navigate to project
-git clone <your-repo-url>
+git clone https://github.com/Omar123098/Shell
 cd "Shell project"
 
 # 2. Create build directory for organized compilation
@@ -322,4 +322,5 @@ This implementation demonstrates C++ programming techniques:
 - Sophisticated command parsing
 - Memory management best practices
 - Professional code documentation
+
 
