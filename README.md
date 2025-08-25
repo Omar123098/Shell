@@ -317,6 +317,3 @@ This implementation demonstrates advanced C++ programming techniques:
 ---
 
 **Built with ❤️ using modern C++ and Windows APIs**
-#   S h e l l 
- 
- 

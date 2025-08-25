@@ -1,0 +1,6 @@
+echo "hello"
+cd c:\Users\DELL\codecrafters-shell-cpp\src
+exit
+echo "hello"
+history
+history 11
