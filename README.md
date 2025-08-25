@@ -293,7 +293,16 @@ else if (ch == YOUR_KEY_CODE) {
 
 ## 📝 License
 
-This project is part of the CodeCrafters Shell Challenge. Feel free to use and modify for educational purposes.
+This project is open source and available for educational and commercial use. Feel free to use, modify, and distribute.
+
+## 🔮 Future Updates
+
+### Upcoming Features
+
+1. **Piping Support** - Full pipe implementation (`command1 | command2`)
+2. **Background Processes** - Job control with `&`, `jobs`, `fg`, `bg` commands
+3. **Enhanced Commands** - Add `mkdir`, `cp`, `mv`, `rm`, `find` commands
+4. **CI/CD Pipeline** - Automated testing and release workflow via GitHub Actions
 
 ## 🤝 Contributing
 
@@ -304,7 +313,7 @@ Contributions are welcome! Key areas for enhancement:
 - Cross-platform compatibility improvements
 - Performance optimizations
 
-## 🏆 Features Showcase
+## 🏆 Feres Showcase
 
 This implementation demonstrates advanced C++ programming techniques:
 
@@ -318,4 +327,29 @@ This implementation demonstrates advanced C++ programming techniques:
 
 **Built with ❤️ using modern C++ and Windows APIs**
 
+tation demonstrates advanced C++ programming techniques:
 
+- Custom readline implementation
+- Windows API integration
+- Sophisticated command parsing
+- Memory management best practices
+- Professional code documentation
+
+---
+
+**Built with ❤️ using modern C++ and Windows APIs**
+
+> > > > > > > 00ccc381940ea4173672ab884326b00c0995cf24
+> > > > > > > atures Showcase
+
+This implementation demonstrates advanced C++ programming techniques:
+
+- Custom readline implementation
+- Windows API integration
+- Sophisticated command parsing
+- Memory management best practices
+- Professional code documentation
+
+---
+
+**Built with ❤️ using modern C++ and Windows APIs**
