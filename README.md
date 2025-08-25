@@ -1,6 +1,6 @@
 # Advanced Windows Shell Implementation
 
-**A fully-featured, Windows-compatible shell with advanced interactive capabilities, tab completion, command history, and comprehensive I/O redirection support.**
+**A featured, Windows-compatible shell with advanced interactive capabilities, tab completion, command history, and comprehensive I/O redirection support.**
 
 Built from scratch in C++ using native Windows APIs for optimal performance and user experience.
 
@@ -317,3 +317,4 @@ This implementation demonstrates advanced C++ programming techniques:
 ---
 
 **Built with ❤️ using modern C++ and Windows APIs**
+
